@@ -1,23 +1,20 @@
-body {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
-  line-height: 22px;
+h1, h2 {
+  font-family: 'Exo', sans-serif;
+  line-height: 40px;
 }
 
 h1 {
-  font-family: 'Exo', sans-serif;
-  font-style: normal;
   font-size: 2.6em;
 }
 
 h2 {
-  font-family: "Operator Mono A", "Operator Mono B";
-  font-style: normal;
-  font-weight: 400;
+  font-size: 1.8em;
+  line-height: 18px;
 }
 
-li {
-  line-height: 22px;
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
 }
 
 hr {
