@@ -12,11 +12,16 @@ h2 {
   line-height: 18px;
 }
 
+li {
+  line-height: 150%;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 hr {
+  padding: 5px;
   border-top: 1px solid #ddd;
 }
